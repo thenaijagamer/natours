@@ -21,8 +21,9 @@ During the journey of creating Natours, I had the privilege of picking up some v
 
 - Advanced CSS techniques that make my web pages look stunning.
 - Crafting animations to breathe life into my designs.
-- Creating responsive and user-friendly layouts using Flexbox and Grid.
+- Creating responsive and user-friendly layouts using Float and manual Grid.
 - Implementing the BEM (Block-Element-Modifier) methodology for writing organized and maintainable CSS.
+- Implementing cross browser compatiblity design.
 - Harnessing the power of Sass for variables, nesting, and more.
 
 ## Features
@@ -31,13 +32,14 @@ Here's a quick look at what Natours has to offer:
 
 - **Stunning Design:** The website boasts a modern and visually appealing design that captures the essence of the natural world.
 - **Engaging Animations:** Enjoy interactive animations that provide an immersive user experience.
-- **Layout Mastery:** I've used Flexbox and Grid to create responsive and adaptive layouts.
+- **Layout Mastery:** I've used Float and manual Grid to create responsive and adaptive layouts.
 - **Clean Code:** I've implemented the BEM methodology, making the CSS codebase organized and maintainable.
 - **Sass Integration:** I've leveraged Sass to make my stylesheets more efficient and maintainable.
+- **Cross Browser Compatiblity:**I've implemented cross browser compatiblity making sure that it works correctly and looks consistent across different web browsers, such as Chrome, Firefox, Safari, and Internet Explorer
 
 ## Usage
 
-You're more than welcome to explore this project for inspiration, learning, or reference. It's a testament to my journey, and I hope it inspires yours. Feel free to deploy the Natours website online to showcase your skills to the world.
+You're more than welcome to explore this project for inspiration, learning, or reference. It's a testament to my journey, and I hope it inspires yours.
 
 ## Contributing
 
