@@ -24,6 +24,7 @@ During the journey of creating Natours, I had the privilege of picking up some v
 - Creating responsive and user-friendly layouts using Float and manual Grid.
 - Implementing the BEM (Block-Element-Modifier) methodology for writing organized and maintainable CSS.
 - Implementing cross browser compatiblity design.
+- Web performance
 - Harnessing the power of Sass for variables, nesting, and more.
 
 ## Features
